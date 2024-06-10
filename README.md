@@ -1,6 +1,6 @@
 # Codewars Kata Challenges
 
-![Codewars Logo](https://www.codewars.com/users/your_username/badges/large)
+![Codewars Logo](https://www.codewars.com/users/angelbeamud/badges/large)
 
 This repository contains my solutions to various kata challenges from Codewars.
 
